@@ -1,0 +1,4 @@
+src/api/endpoints/doc/get/view.html
+doc/*
+package-lock.json
+node_modules/*
